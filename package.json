@@ -1,0 +1,15 @@
+{
+  "name": "antilong-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Atom theme based on predawn",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/omidantilong/antilong-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
